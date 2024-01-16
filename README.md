@@ -12,4 +12,7 @@ Ver 0.967
 +More PC INFO  
 Ver 0.968  
 +little fixes
-+Exclude drivers from Windows quality updates
++Exclude drivers from Windows quality updates  
+
+Ver 0.969  
++RemoveEdge.exe
