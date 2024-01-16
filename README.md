@@ -17,4 +17,7 @@ Ver 0.968
 Ver 0.969  
 +RemoveEdge.exe  
 Ver 0.970  
-+Remove OneDrive
++Remove OneDrive  
+
+Ver 0.971  
++W11ClassicMenu.exe
