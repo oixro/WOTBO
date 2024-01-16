@@ -15,4 +15,6 @@ Ver 0.968
 +Exclude drivers from Windows quality updates  
 
 Ver 0.969  
-+RemoveEdge.exe
++RemoveEdge.exe  
+Ver 0.970  
++Remove OneDrive
