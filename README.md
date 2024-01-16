@@ -1,7 +1,6 @@
 # WOTBO
-Windows optimization tool by oixro (WOTBO)
-
-
+Windows optimization tool by oixro (WOTBO)  
+Changelog:  
 Ver 0.966  
 +NVCleanInstall
 +Ansel
