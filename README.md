@@ -9,6 +9,6 @@ Ver 0.966
 +Новое лицензионное соглашение  
 
 Ver 0.967  
-+More PC INFO
++More PC INFO  
 Ver 0.968  
 little fixes
