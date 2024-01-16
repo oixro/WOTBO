@@ -28,5 +28,5 @@ Ver 0.972
 Ver 0.973  
 +cleanWinSxs & +CompactOS  
 
-Ver 0.974
+Ver 0.974  
 +clean%temp%
