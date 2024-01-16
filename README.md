@@ -20,4 +20,7 @@ Ver 0.970
 +Remove OneDrive  
 
 Ver 0.971  
-+W11ClassicMenu.exe
++W11ClassicMenu.exe  
+
+Ver 0.972  
++RebootMessageBox
