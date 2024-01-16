@@ -26,4 +26,7 @@ Ver 0.972
 +RebootMessageBox  
 
 Ver 0.973  
-+cleanWinSxs & +CompactOS
++cleanWinSxs & +CompactOS  
+
+Ver 0.974
++clean%temp%
