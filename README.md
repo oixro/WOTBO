@@ -6,4 +6,6 @@ Ver 0.966
 +NVCleanInstall
 +Ansel
 +DefenderKiller
-+Новое лицензионное соглашение
++Новое лицензионное соглашение  
+
+Ver 0.967
