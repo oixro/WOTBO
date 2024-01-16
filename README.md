@@ -37,3 +37,5 @@ Ver 0.975
 Ver 0.976  
 +CleanWinUpdates  
 
+Ver 0.977  
++Заготовка под Pro версию
