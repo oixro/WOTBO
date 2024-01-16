@@ -11,4 +11,4 @@ Ver 0.966
 Ver 0.967  
 +More PC INFO  
 Ver 0.968  
-+region.reg +little fixes
++little fixes
