@@ -23,4 +23,7 @@ Ver 0.971
 +W11ClassicMenu.exe  
 
 Ver 0.972  
-+RebootMessageBox
++RebootMessageBox  
+
+Ver 0.973  
++cleanWinSxs & +CompactOS
