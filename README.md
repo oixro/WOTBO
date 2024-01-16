@@ -35,4 +35,5 @@ Ver 0.975
 +Расширены настройки проводника  
 
 Ver 0.976  
-+CleanWinUpdates
++CleanWinUpdates  
+
