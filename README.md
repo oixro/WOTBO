@@ -2,7 +2,7 @@
 Windows optimization tool by oixro (WOTBO)  
 Changelog:  
 
-Ver 1.3
+Ver 1.3  
 +В Pro версии добавлена возможность восстановить реестр (если не применялся DefenderKiller)  
 
 Ver 1.2  
