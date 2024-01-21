@@ -8,6 +8,7 @@ Ver 1.5
 +Настройка CSRSS High Priority для Proпользователей  
 +Оптимизация настроек памяти Windows для Pro пользователей  
 +В вкладку GPU добавлено включение DirectPlay  
++В 
 
 Ver 1.4  
 +Добавлена настройка NvidiaInspector в Pro  
