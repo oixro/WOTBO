@@ -10,6 +10,7 @@ Ver 1.5
 +В вкладку GPU добавлено включение DirectPlay  
 +В вкладку GPU добавлены мелкие настройки Nvidia  
 +В вкладку GPU добавлено отключение HDCP  
+=Обновлён DefenderKiller
 
 Ver 1.4  
 +Добавлена настройка NvidiaInspector в Pro  
