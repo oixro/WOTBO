@@ -2,6 +2,13 @@
 Windows optimization tool by oixro (WOTBO)  
 Changelog:  
 
+Ver 1.5  
++Настройка MSI Mode для Pro пользователей  
++Настройка Affinity Policy для Pro пользователей  
++Настройка CSRSS High Priority для Proпользователей  
++Оптимизация настроек памяти Windows для Pro пользователей  
++В вкладку GPU добавлено включение DirectPlay  
+
 Ver 1.4  
 +Добавлена настройка NvidiaInspector в Pro  
 =Восстановление защитника перенесно в доп функции  
