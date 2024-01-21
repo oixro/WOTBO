@@ -3,7 +3,7 @@ Windows optimization tool by oixro (WOTBO)
 Changelog:  
 
 Ver 1.5  
-+Настройка MSI Mode для Pro пользователей  
++Настройка MSI Mode для Pro пользователей(для пользователей Nvidia 900 серии и выше, AMD тоже не забыли)
 +Настройка Affinity Policy для Pro пользователей  
 +Настройка CSRSS High Priority для Proпользователей  
 +Оптимизация настроек памяти Windows для Pro пользователей  
