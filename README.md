@@ -2,6 +2,11 @@
 Windows optimization tool by oixro (WOTBO)  
 Changelog:  
 
+Ver 1.4  
++Добавлена настройка NvidiaInspector в Pro  
+=Восстановление защитника перенесно в доп функции  
++В Pro добавлено отключение уведомления о перезагрузке ПК  
+
 Ver 1.3  
 +В Pro версии добавлена возможность восстановить защитник (если не применялся DefenderKiller)  
 
