@@ -2,7 +2,7 @@
 Windows optimization tool by oixro (WOTBO)  
 Changelog:  
 
-Ver 1.7
+Ver 1.7  
 =Фикс нерабочего твика с шапкой Windows 11  
 =Фикс некоторых ошибок с синими папками.  
 
