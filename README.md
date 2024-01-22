@@ -2,6 +2,11 @@
 Windows optimization tool by oixro (WOTBO)  
 Changelog:  
 
+Ver 1.6  
++Добавлены синие папки  
++Добавлено восстановление старой шапки проводника на Windows 11  
+=Мелкие оптимизации кода  
+
 Ver 1.5  
 +Настройка MSI Mode для Pro пользователей(для пользователей Nvidia 900 серии и выше, AMD тоже не забыли)  
 +Настройка Affinity Policy для Pro пользователей  
