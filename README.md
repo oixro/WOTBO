@@ -2,6 +2,9 @@
 Windows optimization tool by oixro (WOTBO)  
 Changelog:  
 
+Ver 1.98  
++Добавлена влкадка "Скачать проги"
+
 Ver 1.91 - 1.97    
 =Фикс утечки памяти  
 =Мелкие фиксы  
