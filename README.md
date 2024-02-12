@@ -2,6 +2,11 @@
 Windows optimization tool by oixro (WOTBO)  
 Changelog:  
 
+Ver 2.0  
++Добавлен откат твиков  
++Улучшен детект удалённого защитника  
+=Пофикшен мелкий баг с Nvidia Inspector  
+
 Ver 1.98  
 +Добавлена влкадка "Скачать проги"
 
