@@ -2,6 +2,12 @@
 Windows optimization tool by oixro (WOTBO)  
 Changelog:  
 
+Ver 2.11  
+=Исправлено определение состояние DirectPlay и Зарезервированного хранилища  
+=Обновлён DefenderKiller  
+
+
+
 Ver 2.1  
 +Добавлен откат настроек в GPU  
 +Добавлен Win32PrioritySeparation в Pro  
