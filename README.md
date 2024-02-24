@@ -3,7 +3,7 @@ Windows optimization tool by oixro (WOTBO)
 Changelog:  
 
 Ver 2.11  
-=Исправлено определение состояние DirectPlay и Зарезервированного хранилища  
+=Исправлено определение состояние DirectPlay и Зарезервированного хранилища на русской Windows  
 =Обновлён DefenderKiller  
 
 
