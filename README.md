@@ -3,12 +3,11 @@ Windows optimization tool by oixro (WOTBO)
 Changelog:  
 
 Ver 2.15  
-1. Схема питания была обновлена до версии 3.0  
+=Схема питания была обновлена до версии 3.0  
 https://t.me/TECHNOSHAHTA/1335  
-2. Обновлены ссылки на:
+=Обновлены ссылки на:
 Notepad++, 7-Zip, ShareX, Telegram, OBS, K-Lite codec pack, HWINFO  
-
-2.1 Добавлены ссылки на:  
++Добавлены ссылки на:  
 .NET Runtime,  FastStone Image Viewer  
 
 Ver 2.13 & 2.14  
