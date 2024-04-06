@@ -2,6 +2,10 @@
 Windows optimization tool by oixro (WOTBO)  
 Changelog:  
 
+Ver 2.16  
++Добавлено удаление UWP приложений  
++Добавлен перезапуск проводника в контекстное меню на рабочем столе  
+
 Ver 2.15  
 =Схема питания была обновлена до версии 3.0  
 https://t.me/TECHNOSHAHTA/1335  
