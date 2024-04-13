@@ -3,7 +3,7 @@ Windows optimization tool by oixro (WOTBO)
 Changelog:  
 
 Ver 2.17(beta)  
-=Размер программы был уменьшен на 0.28мб    
+=Размер программы был уменьшен на 0.28 мб    
 =Запуск программы ускорен на ~40%  
 =Добавлен CrystallDiskInfo в список программ  
 -Удалён InternetDisabler за ненадобностью  
