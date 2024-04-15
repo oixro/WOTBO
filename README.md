@@ -5,7 +5,7 @@ Changelog:
 Ver 2.19  
 +Добавлена вторая страница для Pro mode  
 +Добавлена настройка bufferbloat для Pro mode  
-=Win32PrioritySeparation перенесён на вторкую вкладку  
+=Win32PrioritySeparation перенесён на вторую вкладку  
 +Добавлена возможность перейти на beta ветку для Pro mode  
 
 Ver 2.17 & 2.18      
