@@ -2,6 +2,13 @@
 Windows optimization tool by oixro (WOTBO)  
 Changelog:  
 
+Ver 2.20  
++Добавлена проверка на применённый bufferloat  
+=Исправлена ошибка при которой нельзя было закрыть программу если она вылетела в ошибку  
++Добавлен Unlocker  
++Добавлен AlwaysOnTop  
+=Переезд на GitLab из-за нестабильной работы GitHub  
+
 Ver 2.19  
 +Добавлена вторая страница для Pro mode  
 +Добавлена настройка bufferbloat для Pro mode  
