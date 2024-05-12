@@ -1,6 +1,7 @@
 # WOTBO
 Windows optimization tool by oixro (WOTBO)  
 Changelog:  
+
 Ver 2.21  
 =Обновлены некоторые твики под Windows 11 24H2  
 =Обновлён DefenderKiller под Windows 11 24H2  
