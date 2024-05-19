@@ -3,7 +3,7 @@ Windows optimization tool by oixro (WOTBO)
 Changelog:  
 
 Ver 2.23  
-=Срочный фикс обновлений  
+=Срочный фикс обновления 2.22    
 
 Ver 2.22  
 +Добавлены подсказки при наведении на твики  
