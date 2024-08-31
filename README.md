@@ -2,7 +2,7 @@
 Windows optimization tool by oixro (WOTBO)  
 Changelog:  
 
-Ver 2.28
+Ver 2.28  
 +Сайт wotbo.pro  
 +Добавлена подробная система логов, для отлаживания ошибок (F12)  
 =Обновлена схема питания  
