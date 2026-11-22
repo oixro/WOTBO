@@ -1,6 +1,7 @@
 # WOTBO
 Windows optimization tool by oixro (WOTBO)  
 Changelog:  
+
 Ver 2.34.0  
 [=] Полностью переписана логика работы программы: вместо одного Form1 — слои App/Services/UI и partial-файлы MainForm  
 [=] Полностью переработан метод определения состояния твиков: состояние сверяется с фактическим, тяжёлые проверки (WMI, netsh, PowerShell, powercfg) идут в фоне  
